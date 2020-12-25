@@ -1,1 +1,4 @@
-# Thi is a simple chat app
+# Chat aplication
+
+
+### This is a simple chat app
