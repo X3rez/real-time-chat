@@ -1,1 +1,1 @@
-#Thi is a simple chat app
+# Thi is a simple chat app
